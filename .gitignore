@@ -1,0 +1,58 @@
+# ============================================================
+# Monitor WA ID Capture Migration Toolkit
+# ============================================================
+
+# Microsoft Access databases
+*.mdb
+*.accdb
+*.ldb
+*.laccdb
+
+# Student data exports
+*.csv
+*.xlsx
+*.xls
+
+# Student photographs
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+*.tif
+*.tiff
+*.heic
+
+# Archives and backups
+*.zip
+*.7z
+*.rar
+*.bak
+*.backup
+
+# Logs
+*.log
+
+# Environment and configuration files
+.env
+.env.*
+*.pfx
+*.p12
+*.key
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS temporary files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# PowerShell temporary files
+*.tmp
+
+# IDE settings
+.vscode/
+.idea/
